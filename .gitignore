@@ -1,3 +1,4 @@
 bin/
 build/
-*.class
+data/data.class
+Test.class
